@@ -4,7 +4,7 @@ function addElementToBeginningOfArray ( ) {
   return 
 }
 function (array, element){
-var array = foo;
-var element = '1' ;
+var array = "foo";
+var element = 1 ;
 return (array, element);
 }
